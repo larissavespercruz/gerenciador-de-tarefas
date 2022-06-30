@@ -1,0 +1,13 @@
+.card-header-estilo{
+    margin-bottom:0rem !important;
+    color: #fff;
+}
+
+.row-spaced{
+    margin-top: 1%; 
+}
+
+.card-estilo{
+    margin-left: 1%;
+    width: 98% !important; 
+}
